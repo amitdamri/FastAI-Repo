@@ -1,7 +1,7 @@
 # Bear Classification WebApp
 
 You can try the demo over here:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amitdamri/FastAI-Repo/HEAD?urlpath=%2Fvoila%2Frender%2Fbears-classifier.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amitdamri/FastAI-Repo/main?urlpath=%2Fvoila%2Frender%2Fbears-classifier.ipynb)
 
 Fast.ai Bear Classifier
 
