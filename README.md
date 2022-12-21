@@ -11,5 +11,5 @@ Classifies 3 types of bears.
 
 #### Drone or Bird classifier
 You can try the demo over here (HuggingFace and Gradio):
-
+[![HuggingFace](https://www.svgrepo.com/show/401953/hugging-face.svg)](https://huggingface.co/spaces/LuniLand/DroneOrBird)
 Fast.ai Drone or Bird classifier
