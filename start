@@ -2,6 +2,6 @@
 
 set -e
 
-cd BearsClassifier
+cd /home/amitdamri/FastAI-Repo/BearsClassifier
 
 exec "$@"
