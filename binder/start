@@ -1,7 +1,0 @@
-#!/bin/bash
-
-set -e
-
-cd /home/amitdamri/FastAI-Repo/BearsClassifier
-
-exec "$@"
